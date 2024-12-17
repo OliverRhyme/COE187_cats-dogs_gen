@@ -1,0 +1,34 @@
+/Users/oliverrhyme/MaximSDK/Examples/MAX78000/CNN/cats-dogs_gen/build/heap.o: \
+ /Users/oliverrhyme/MaximSDK2/Libraries/CMSIS/Device/Maxim/MAX78000/Source/heap.c \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/errno.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/errno.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/reent.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/newlib.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/config.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/machine/ieeefp.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_types.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_types.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/lock.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/unistd.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/unistd.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/cdefs.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/types.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/machine/endian.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_endian.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/select.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_sigset.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timeval.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/timespec.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timespec.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/sys/sched.h \
+ /Users/oliverrhyme/MaximSDK2/Tools/GNUTools/10.3/arm-none-eabi/include/machine/types.h
